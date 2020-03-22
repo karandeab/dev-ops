@@ -13,4 +13,5 @@ This is developers doc just started to list useful git commands
 12. git log
 13 git checkout -b newbranchname          ------this will create new branch and switch to it
    ----- IF we will try to use the above command again it will give fatal error- fatal: A branch named 'dev-ops-v1' already exists.
-
+14 git push origin branch_name
+   --- This is used to reflect the custom branch in github branch listig. This is important thing which learn.
