@@ -1,0 +1,16 @@
+This is developers doc just started to list useful git commands
+1. git init
+2. git --version
+3. git status
+4. git config --global user.email "amol.karande84@gmail.com"
+5. git config --global user.name "Amol Bhujangrao Karande"
+6. git add .
+7. git comit -m "User friendly message for the curret commit."
+8. git clone http://githubrepository
+9. git branch branchname
+10. git branch
+11. git merge
+12. git log
+13 git checkout -b newbranchname          ------this will create new branch and switch to it
+   ----- IF we will try to use the above command again it will give fatal error- fatal: A branch named 'dev-ops-v1' already exists.
+
