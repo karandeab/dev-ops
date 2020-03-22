@@ -1,5 +1,5 @@
 This is developers doc just started to list useful git commands
-1. git init
+1. git init -- This is from feature branch used to init working directory for init
 2. git --version
 3. git status
 4. git config --global user.email "amol.karande84@gmail.com"
@@ -15,3 +15,5 @@ This is developers doc just started to list useful git commands
    ----- IF we will try to use the above command again it will give fatal error- fatal: A branch named 'dev-ops-v1' already exists.
 14 git push origin branch_name
    --- This is used to reflect the custom branch in github branch listig. This is important thing which learn.
+15 git stash apply 
+   -- This is used to stash the files changes before switchig to other branch as we have modified that file in the switcing branch.
