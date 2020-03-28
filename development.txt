@@ -17,3 +17,5 @@ This is developers doc just started to list useful git commands
    --- This is used to reflect the custom branch in github branch listig. This is important thing which learn.
 15 git stash apply 
    -- This is used to stash the files changes before switchig to other branch as we have modified that file in the switcing branch.
+16 git branch -d existing-branch-name
+  -- This to delete the created custom branch.
