@@ -19,3 +19,7 @@ This is developers doc just started to list useful git commands
    -- This is used to stash the files changes before switchig to other branch as we have modified that file in the switcing branch.
 16 git branch -d existing-branch-name
   -- This to delete the created custom branch.
+17. git diff 
+  -- To see the diff of local repository
+18. git diff --staged
+  -- To do the diff of staged files
